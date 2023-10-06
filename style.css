@@ -1,0 +1,96 @@
+/* CSS BODY*/
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+
+} 
+
+main {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    width: 1440px;
+    margin: 50px auto 5px;
+    padding-bottom: 100px;
+}
+
+section {
+    width: 80%;
+}
+
+span {
+    line-height: 30px;
+}
+
+
+/* CSS HEADER*/
+
+header {
+    padding-top: 100px;
+    text-align: center;
+}
+
+header h1 {
+    color: #00DD00;
+}
+
+img{
+    width: 240px;
+}
+
+/* FINE CSS HEADER*/
+
+
+
+/*CSS MAIN*/
+
+.scelta {
+    padding: 20px 10% 20px;
+    text-align: left;
+}
+
+.proprietario {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+#conferma {
+    background-color: #00DD00;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0px auto 0px;
+    text-align: center;
+}
+/*CSS barre di carica dei monopattini*/
+
+.scarica {
+    background-color: red;
+    color: red;
+    height: 25px;
+    width: 20%;
+    border: 0px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.mezza-carica {
+    background-color: orangered;
+    color: orangered;
+    height: 25px;
+    width: 35%;
+    border: 0px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.carica {
+    background-color: green;
+    color: green;
+    height: 25px;
+    width: 60%;
+    border: 0px solid black;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+/* FINE CSS MAIN*/
